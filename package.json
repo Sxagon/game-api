@@ -1,0 +1,12 @@
+{
+  "name": "game-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/Sxagon/game-api.git",
+  "author": "Sxagon <sxagondev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gamedig": "^4.0.5"
+  }
+}
